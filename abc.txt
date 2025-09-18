@@ -6,3 +6,4 @@ this is line 02, upgrading the code so that we can push it to the git again --> 
 #BRANCHING
 switched to development branch from the main(production) branch
 This line is added for the sake of understanding branching (This will be pushing in the development branch)
+
